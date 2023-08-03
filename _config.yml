@@ -1,5 +1,5 @@
 # Site
-name: "Fernando Cejas"
+name: ""
 description: "Welcome! I'm Fernando Cejas, Mobile Director @Wire, @SoundCloud Alumni, former @IBM Developer Advocate @IBM and @Tuenti Alumni.
 I'm  a geek/nerd, huge fan of Mobile Development, Artificial Intelligence, Quantum Computing and Software Engineering in general. 
 Here I share my experiences and expose my ideas: all views, posts and opinions are my own."
@@ -7,9 +7,9 @@ meta_description: "Welcome! I'm Fernando Cejas, Director of Mobile @Wire, @Sound
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
-google_analytics: 'UA-17189586-4'
-disqus: 'fernandocejas'
-mailchimp-list: 'https://fernandocejas.us19.list-manage.com/subscribe/post?u=dbfbeb86419b7deba2c2e951d&amp;id=80bff95534'
+google_analytics: ''
+disqus: ''
+mailchimp-list: ''
 
 # Authors
 authors:
